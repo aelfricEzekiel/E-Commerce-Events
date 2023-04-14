@@ -1,0 +1,74 @@
+<div class="wrapper">
+        <img src="images/IV of Spades.jpg" alt="IV Of Spades">
+        <div class="text-box">
+            <h1>All About LINGAW Music Fest</h1>
+            <p>LINGAW word derived from people in Visayas whereas it means fun. This MusicFest centers to make  people have fun through a lot of music categories such as: OPM, Indie, Rock, Jazz and etc. This event serves not just simple fun but a good event for people to interact with other people, eat through our food stalls, camp in the open area, and many more. For more informations and update about the MusicFest, we empower each participant to log in on our website. Come on, Let's have some fun!</p>
+        </div>
+    </div>
+    <div class="wrapper-1">
+        <img src="images/ben & ben" alt="Ben&Ben">
+        <div class="text-box-1">
+            <h1>Ben&Ben</h1>
+            <p>Ben&Ben is a folk-pop band based in the Philippines. Formed in 2017, the band has since been known for their hit songs, "Kathang Isip," “Maybe The Night”, “Leaves”, “Paninindigan Kita”, “Araw-Araw”, and "Sa Susunod Na Habangbuhay" among others. They have been named Spotify's Most Streamed Artist in 2020 in the Philippines,[1] and Most Streamed Filipino Artist from 2021 to 2022.</p>
+        </div>
+    </div>
+
+    <div class="section-info">
+        <div class="section-information">
+            <h1>Information About the Bands</h1>
+        </div>
+        <div class="square-left">
+            <img src="images/ben&ben.jpg" alt="Ben&Ben">
+            <div class="text-box-2">
+                <h1>Ben&Ben</h1>
+                <p>Ben&Ben is a 9-piece band from Manila, Philippines, consisting of twin brothers Paolo Benjamin and Miguel Benjamin on acoustic guitars and vocals.</p>
+            </div>
+        </div>
+    </div>
+    <div class="square-right">
+        <img src="images/IVofSpades.jpg" alt="IV of Spades">
+        <div class="text-box-3">
+            <h1>IV of Spades</h1>
+            <p>IV of Spades is a Filipino rock band from Metro Manila, Philippines, consisting of vocalist, bassist and keyboardlist, Zild Benitez, vocalist and lead guitar Blaster Silonga, and drummer Badjao de Castro. Unique served as the band's lead vocalist and rhythm guitarist until 2018.</p>
+        </div>
+    </div>
+    <div class="square-left-1">
+        <img src="images/december avenue.jpg" alt="December Avenue">
+        <div class="text-box-4">
+`           <h1>December Avenue</h1>
+            <p>December Avenue is a 5-piece indie pop/alternate rock band from Manila, Philippines known for their viral compositions online. The band is one of the most streamed OPM bands of all-time.</p>
+        </div>
+    </div>
+    <div class="square-right-1">
+        <img src="images/dj loonyo.jpg" alt="DJ Loonyo">
+        <div class="text-box-5">
+            <h1>DJ Loonyo</h1>
+            <p>DJ Loonyo is a 22-year old professional DJ based in Manila, Philippines. Born Toni Bautista, he has been making waves in the music industry since the age of 15.</p>
+        </div>
+    </div>
+    <div class="square-left-2">
+        <img src="images/rico robles.jpg" alt="Rico Robles">
+        <div class="text-box-6">
+            <h1>Rico Robles</h1>
+            <p>Rico Robles is a disc jockey and a former housemate of Pinoy Big Brother: Celebrity Edition. He has been a disc jockey for Monster Radio RX 93.1, a popular FM station, since 2001-PRESENT. He is also a registerd nurse.</p>
+        </div>
+    </div>
+
+    <div class="dropdown">
+        <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Book a ticket
+        </a>
+        <ul class="dropdown-menu">
+          <li><a class="dropdown-item" href="#">Action</a></li>
+          <li><a class="dropdown-item" href="#">Another action</a></li>
+          <li><a class="dropdown-item" href="#">Something else here</a></li>
+        </ul>
+      </div>
+
+
+
+
+    <script src="script.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.slim.js" integrity="sha256-dWvV84T6BhzO4vG6gWhsWVKVoa4lVmLnpBOZh/CAHU4=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js" integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
+</body>

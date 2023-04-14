@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Montserrat';
+}
+.h-100 {
+    padding-top: 1px;
+    background-image: url(images/bg-image.jpg);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    font-family: 'Alkatra';
+}
+.container a img {
+    margin-right: 50px;
+    margin-left: 50px;
+    position: relative;
+    right: 110px;
+    width: 90px;
+    height: 90px;
+}
+.container ul li a:hover {
+    font-family: 'Alkatra';
+    font-weight: 500;
+    color: white;
+    display: flex;
+}
+.navbar {
+    list-style-type: none;
+    text-align: right;
+    left: 90px;
+}
+.navbar ul li a {
+    transition: all 0.3s ease 0s;
+}
+.navbar .nav .nav-item a:hover {
+    color: black;
+    background: antiquewhite;
+}
+.navbar .nav .nav-item .nav-link {
+    color: black;
+    font-family: 'Alkatra';
+    margin-bottom: 11px;
+    font-size: 13px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
